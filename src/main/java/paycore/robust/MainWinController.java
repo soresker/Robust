@@ -164,7 +164,11 @@ public class MainWinController {
         {
             posForm.setVisible(true);
             homeForm.setVisible(false);
+<<<<<<< HEAD
             tcpForm.setVisible(false);
+=======
+            tcpForm.setVisible(true);
+>>>>>>> origin/main
 
 
         } else if(event.getSource() == homeButton )
